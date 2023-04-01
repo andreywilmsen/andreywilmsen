@@ -9,8 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h2 align="center">Técnologias</h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +18,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h2 align="center">Redes Sociais</h2>
     <a href = "mailto: andreywilmsendepaula@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
@@ -30,5 +29,3 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/andreywilmsen/andreywilmsen/blob/output/github-contribution-grid-snake.svg)
