@@ -1,31 +1,56 @@
-## Seja bem vindo! Eu sou o Andrey!
+<h1 align="center">👋 Seja bem-vindo! Eu sou o Andrey Wilmsen</h1>
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=andreywilmsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreywilmsen&layout=compact&langs_count=16&theme=react"/>
-</div>
-<br>
+<p align="center">
+  Desenvolvedor Full Stack apaixonado por criar soluções que otimizam, automatizam e facilitam o dia a dia das pessoas.  
+  <br />
+  <strong>React · Next.js · Node.js · TypeScript · TDD · Git Flow</strong>
+</p>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h2 align="center">Tecnologias</h2>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   </div>
-    
-  
-  <h2 align="center">Redes Sociais</h2>
-    <a href = "mailto: andreywilmsendepaula@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://br.linkedin.com/in/andrey-wilmsen-de-paula-004b49213">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/andreywilmsen/">
-      <img width="25" src="instagram.png">
-    </a>
+---
+
+### 🚀 Sobre mim
+
+Sou desenvolvedor full stack com mais de 2 anos de experiência prática, criando aplicações completas do zero. Atuo com foco em performance, boas práticas e código limpo.
+
+Já desenvolvi soluções reais aplicando autenticação com JWT, testes automatizados com Jest, arquitetura em camadas e metodologia TDD.
+
+> "Programo para resolver problemas reais, com responsabilidade, clareza e foco na entrega."
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreywilmsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreywilmsen&layout=compact&langs_count=8&theme=react"/>
 </div>
+
+---
+
+### 📫 Contato
+
+- 📩 **Email:** andreywilmsendepaula@gmail.com  
+- 💼 **LinkedIn:** [Andrey Wilmsen de Paula](https://www.linkedin.com/in/andrey-wilmsen-de-paula-875504370/)  
+- 🌐 **Portfólio:** [portfolioandreywilmsen.vercel.app](https://portfolioandreywilmsen.vercel.app)  
+- 💻 **GitHub:** [github.com/andreywilmsen](https://github.com/andreywilmsen)  
+- 📷 **Instagram:** [@andreywilmsen](https://www.instagram.com/andreywilmsen/)
+
+---
+
+<p align="center">⚡ Sempre buscando evoluir como profissional e como pessoa. Obrigado por visitar meu perfil!</p>
