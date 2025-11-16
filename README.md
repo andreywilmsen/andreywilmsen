@@ -2,10 +2,6 @@
 
 Desenvolvedor Full Stack | PHP · Yii2 · PostgreSQL · MySQL · JavaScript · Node.js · React · Jest · APIs
 
----
-
-## Tecnologias
-
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Yii2](https://img.shields.io/badge/-Yii2-black?style=flat-square&logo=Yii)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
@@ -15,16 +11,10 @@ Desenvolvedor Full Stack | PHP · Yii2 · PostgreSQL · MySQL · JavaScript · N
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 
----
-
-## GitHub Stats
-
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreywilmsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreywilmsen&layout=compact&langs_count=8&theme=react"/>
 </div>
-
----
 
 ## Contato
 
