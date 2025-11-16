@@ -1,4 +1,4 @@
-# Andrey Wilmsen
+# Andrey Wilmsen – Desenvolvedor Full Stack
 
 Desenvolvedor Full Stack | PHP · Yii2 · PostgreSQL · MySQL · JavaScript · Node.js · React · Jest · APIs
 
