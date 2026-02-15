@@ -3,7 +3,7 @@
 Desenvolvedor Full Stack | PHP · Yii2 · PostgreSQL · MySQL · JavaScript · Node.js · React · Jest · APIs
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel)
 ![Yii2](https://img.shields.io/badge/-Yii2-black?style=flat-square&logo=Yii)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
