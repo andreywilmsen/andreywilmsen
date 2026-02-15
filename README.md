@@ -12,10 +12,6 @@ Desenvolvedor Full Stack | PHP · Laravel · Yii2 · PostgreSQL · MySQL · Java
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreywilmsen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreywilmsen&layout=compact&langs_count=8&theme=react"/>
-</div>
 
 ## Contato
 
