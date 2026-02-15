@@ -1,6 +1,6 @@
 # Olá! Eu sou Andrey Wilmsen
 
-Desenvolvedor Full Stack | PHP · Yii2 · PostgreSQL · MySQL · JavaScript · Node.js · React · Jest · APIs
+Desenvolvedor Full Stack | PHP · Laravel · Yii2 · PostgreSQL · MySQL · JavaScript · Node.js · React · Jest · APIs
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel)
