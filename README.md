@@ -16,6 +16,5 @@ Desenvolvedor Full Stack | PHP · Laravel · Yii2 · PostgreSQL · MySQL · Java
 ## Contato
 
 - 📩 Email: andreywilmsendepaula@gmail.com  
-- 🌐 Portfolio: [portfolioandreywilmsen.vercel.app](https://portfolioandreywilmsen.vercel.app)  
 - 💻 GitHub: [github.com/andreywilmsen](https://github.com/andreywilmsen)  
 - 📷 Instagram: [@andreywilmsen](https://www.instagram.com/andreywilmsen/)
